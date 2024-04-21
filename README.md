@@ -6,16 +6,12 @@ This project displays a clock with hour, minute, and second hands, along with th
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
 
-## Demo
-
-You can see a live demo of the clock [here](#) (Replace # with your live demo link).
 
 ## Features
 
@@ -49,7 +45,7 @@ Once the project is open in your browser, you can:
 
 This project was inspired by [this dribbble shot](https://dribbble.com/shots/5958443-Alarm-clock).
 
-The clock functionality and design were created by [Your Name].
+The clock functionality and design were created by Nitesh.
 
 ## License
 
